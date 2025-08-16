@@ -42,7 +42,7 @@ Shield Insurance sought a centralized analytical solution to:
 
 ## 🔗 Important links
 - [Live PowerBI dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjVjZmJjMDMtMjY0YS00MmZmLTg1ODktMmQxZWE2YmMxZmFhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-- [Linkedin Post]()
+- [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7354815698319151104/)
 
 ## 📞 Contacts
 - [Protfolio](https://codebasics.io/portfolio/Suraj-Kant)
